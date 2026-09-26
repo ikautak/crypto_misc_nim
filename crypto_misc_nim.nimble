@@ -6,7 +6,7 @@ description   = "A new awesome nimble package"
 license       = "MIT"
 srcDir        = "src"
 installExt    = @["nim"]
-bin           = @["crypto_misc_nim", "miller_rabin_primality_test", "pollard_p_1"]
+bin           = @["crypto_misc_nim", "miller_rabin_primality_test", "pollard_p_1", "lll"]
 
 
 # Dependencies

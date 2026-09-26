@@ -2,13 +2,13 @@
 #
 # Note: gcd is the one provided by the bigints package.
 
-import bigints, algorithm, sequtils, trutils
+import bigints, algorithm, sequtils, strutils
 
 const
   zero = 0.initBigInt
   one = 1.initBigInt
   two = 2.initBigInt
-  three = 3.initBi
+  three = 3.initBigInt
   five = 5.initBigInt
   six = 6.initBigInt
 
